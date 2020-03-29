@@ -19,7 +19,7 @@ import matplotlib.pyplot as plt
 from mountainplot import Mountain, mountainplot
 
 SEVEN_SUMMITS = [
-    Mountain(name='Everest', height=8848 , level=0.56, color='lime', text_color='white'),
+    Mountain(name='Everest', height=8848 , level=0.642, color='lime', text_color='white'),
     ...
 ]
 
