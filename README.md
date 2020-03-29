@@ -7,8 +7,8 @@ For example if you have climbed 5678m (64.2%) of the Mount Everest.
 
 ## Usage
 Basically two things are relevant for the usage of mountainplot, namely: 
-* Mountain (a named tuple providing parameter for the mountain plot)
-* mountainplot (function taking an axes.Axes matplotlib object and a list of mountains)
+* `Mountain` (a named tuple providing parameter for the mountain plot)
+* `mountainplot` (function taking an axes.Axes matplotlib object and a list of mountains)
 
 ### Example
 ```python
