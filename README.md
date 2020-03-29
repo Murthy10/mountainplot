@@ -2,7 +2,7 @@
 mountainplot provides an easy to API to plot a chart showing triangles "mountains" representing the fulfilement of goals.
 It  is meant as an enhancement for the famous matplotlib. 
 
-For example if you have climbed 5678m (64.2%) of the Mount Everest :mountain_snow:.
+For example if you have climbed 5678m (64.2%) of the Mount Everest :mountain_snow: and you would like to plot your gain on a pretty chart.
 (and possible other mountains of the seven summits)
 
 ## Usage
