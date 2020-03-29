@@ -30,5 +30,5 @@ plt.box(False)
 plt.show()
 ```
 
-### mountainplot Seven Summits
+#### mountainplot Seven Summits
 ![Seven Summits](img/seven_summits.png "Seven Summits")
