@@ -10,7 +10,10 @@ Basically two things are relevant for the usage of mountainplot, namely:
 * `Mountain` (a named tuple providing parameter for the mountain plot)
 * `mountainplot` (function taking an axes.Axes matplotlib object and a list of mountains)
 
-### Example
+### Seven Summits Example
+![Seven Summits](img/seven_summits.png "Seven Summits")
+
+Code for the upper plot.
 ```python
 import matplotlib.pyplot as plt
 from mountainplot import Mountain, mountainplot
@@ -29,6 +32,3 @@ mountainplot(ax, SEVEN_SUMMITS)
 plt.box(False)
 plt.show()
 ```
-
-#### mountainplot Seven Summits
-![Seven Summits](img/seven_summits.png "Seven Summits")
